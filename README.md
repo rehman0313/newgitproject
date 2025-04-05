@@ -1,0 +1,2 @@
+# newgitproject
+hello class
